@@ -33,8 +33,22 @@ The **ANN model** gave the best performance and was deployed with the frontend.
 
 ## 📸 Demo
 
+> A simple and interactive **Streamlit** frontend where users can upload transaction history and receive instant risk predictions.
+
 ![Streamlit Frontend](img1.png)
 
-> A simple and interactive **Streamlit** frontend where users can upload transaction history and receive instant risk predictions.
+![Streamlit Frontend](img2.png)
+
+![Streamlit Frontend](img3.png)
+
+![Streamlit Frontend](img4.png)
+
+![Streamlit Frontend](img5.png)
+
+![Streamlit Frontend](img6.png)
+
+![Streamlit Frontend](img7.png)
+
+![Streamlit Frontend](img8.png)
 
 ---
