@@ -40,17 +40,12 @@ A simple and interactive **Streamlit** frontend where users can upload transacti
 Customer Details Form
 
 ![Streamlit Frontend](img2.png)
-
 ![Streamlit Frontend](img3.png)
 
-Data Visualization
+Feature Visualization
 
 ![Streamlit Frontend](img4.png)
-
 ![Streamlit Frontend](img5.png)
-
-![Streamlit Frontend](img6.png)
-
 ![Streamlit Frontend](img7.png)
 
 Final Prediction
