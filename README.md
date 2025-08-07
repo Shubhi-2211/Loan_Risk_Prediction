@@ -1,4 +1,4 @@
-# 🏦 Loan Risk Prediction Using User Transaction History
+# 🏦 Loan Risk Prediction
 
 This project uses machine learning to predict whether a user poses a **high** or **low risk** for loan default based on their transaction behavior. It leverages transaction data such as withdrawals, deposits, balances, and more to make informed risk assessments.
 
@@ -33,7 +33,7 @@ The **ANN model** gave the best performance and was deployed with the frontend.
 
 ## 📸 Demo
 
-![Streamlit Frontend](img.png)
+![Streamlit Frontend](img1.png)
 
 > A simple and interactive **Streamlit** frontend where users can upload transaction history and receive instant risk predictions.
 
