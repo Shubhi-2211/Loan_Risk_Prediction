@@ -37,9 +37,13 @@ The **ANN model** gave the best performance and was deployed with the frontend.
 
 ![Streamlit Frontend](img1.png)
 
+>Customer Details Form
+
 ![Streamlit Frontend](img2.png)
 
 ![Streamlit Frontend](img3.png)
+
+>Data Visualization
 
 ![Streamlit Frontend](img4.png)
 
@@ -49,6 +53,10 @@ The **ANN model** gave the best performance and was deployed with the frontend.
 
 ![Streamlit Frontend](img7.png)
 
+>Final Prediction
+
 ![Streamlit Frontend](img8.png)
+
+![Streamlit Frontend](img9.png)
 
 ---
