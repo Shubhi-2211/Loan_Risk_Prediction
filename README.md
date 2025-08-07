@@ -56,7 +56,6 @@ Data Visualization
 Final Prediction
 
 ![Streamlit Frontend](img8.png)
-
 ![Streamlit Frontend](img9.png)
 
 ---
